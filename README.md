@@ -4,8 +4,8 @@
   You can find the dataset <a href='https://www.kaggle.com/ikarus777/best-artworks-of-all-time'>here</a>
 </p>
 <ol>
-  <li>Find the classification colab notebook: <a href='https://colab.research.google.com/drive/1W7ChMvOfmd55SNl_oDGanQ-YUeLyKeEL?usp=sharing'>here</a></li>
-  <li>Find the visualisation colab notebook: <a href='https://colab.research.google.com/drive/1hkLf-aLjA_STAw7zg8xaxXyFSYpSI9za?usp=sharing'>here</a></li> 
+  <li>Find the classification colab notebook: <a href='https://colab.research.google.com/drive/1W7ChMvOfmd55SNl_oDGanQ-YUeLyKeEL?usp=sharing' target='_blank'>here</a></li>
+  <li>Find the visualisation colab notebook: <a href='https://colab.research.google.com/drive/1hkLf-aLjA_STAw7zg8xaxXyFSYpSI9za?usp=sharing' target='_blank'>here</a></li> 
 </ol>
 <h3>1. Visualization</h3>
 <h4>Resized artworks</h4>
