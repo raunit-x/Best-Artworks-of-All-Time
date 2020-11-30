@@ -40,7 +40,7 @@
 <img src='Artist from Art classification/Screenshot 2020-11-30 at 11.01.06 AM.png' width='400'>
 <h3>iii. Custom Deep CNN</h3>
 <h4>Accuracy and Loss function plots</h4>
-<img src='Artist from Art classification/Custom CNN_plots.png' width="800">
+<img src='Artist from Art classification/Custom Deep CNN_plots.png' width="800">
 <h6>Validation Accuracy: <b>0.522</b></h6>
 <h6>Training Accuracy: <b>0.522</b></h6>
 <h4>Confusion Matrix</h4>
