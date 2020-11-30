@@ -46,6 +46,6 @@
 <h4>Confusion Matrix</h4>
 <img src='Artist from Art classification/Custom CNN_confusionMatrix.png' width='800'>
 <h4>Artist from art right off the web</h4>
-<img src='Artist from Art classification/Screenshot 2020-11-30 at 11.01.18 AM.png' width='400'>
+<img style="margin: 100px" src='Artist from Art classification/Screenshot 2020-11-30 at 11.01.18 AM.png' width='400'>
 <h6>Note: CNNs are sensitive to distributions so an edited web image might completely put off the classifier</h6>
 <h6>Dropout or other regularisation techniques should definitely help to reduce high variance</h6>
